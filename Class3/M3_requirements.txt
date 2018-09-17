@@ -1,0 +1,33 @@
+1). Problem and Key Insight: high-level question and answer from the modeling analysis
+
+    Describe the business problem and background
+    Summarize the key findings/conclusions (from after performing model evaluation)
+    Suggest next steps to take action or improve the models.
+
+2). Data: quick overview of the data including 1 or 2 visualizations
+
+    Report the source(s) of the data
+    Include profile report
+    Include 1 or 2 key visualizations
+    Summarize the data exploration and preparation
+
+3). Features: overview on feature selection and transformations
+
+    Describe the needed features
+    Perform the feature engineering
+
+4). Model Building: overview of algorithms and tools
+
+    Describe at least 2 models selected and provide justification for their selection
+    Split, Train, Run Models
+
+5). Model Evaluation: highlight key achievements and main metrics
+
+    Report on Accuracy and other key metrics (MSE, R^2, ROC/AUC, Precision, Recall?) for each model
+    Summarize model performance comparisons
+
+6). Time on Task: summary of time on each phase. (If you were going to bill the client for the work involved, report on the time per task.)
+
+    Data Preparation and Exploration
+    Feature Selection and Engineering
+    Data Modeling and Evaluation

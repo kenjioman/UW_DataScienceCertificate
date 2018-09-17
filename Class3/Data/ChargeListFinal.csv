@@ -1,0 +1,1030 @@
+﻿Charge,ChargeTitle,ChargeSubtitle
+50,Defect,Brakes
+51,Defect,Tires
+52,Defect,Steering
+53,Defect,Exhaust System
+55,Defect,Headlights
+58,Defect,Driver's Seat
+59,Defect,Suspension
+61,Defect,Glass Tint
+64,Defect,Stop Lights
+67,Defect,Wheel Alignment
+70,Defect,Cap
+72,Defect,Wheels Lugs
+74,Defect,Floor
+77,Defect,Speedometer
+81,Defect,Fog Lamps
+85,Defect,External Air Brake
+89,Defect,Safety Belts
+90,Defect,Lift Axle
+10-303(a),Business Regulation,Fuel Transport or Sale
+10-309(a),Business Regulation,Fuel Transport or Sale
+10-309(c),Business Regulation,Fuel Transport or Sale
+10-310(b),Business Regulation,Fuel Transport or Sale
+10-310(c),Business Regulation,Fuel Transport or Sale
+10-315(b),Business Regulation,Fuel Transport or Sale
+10-319.2,Business Regulation,Fuel Transport or Sale
+10-320(a),Business Regulation,Fuel Transport or Sale
+10-406(b),Business Regulation,Fuel Transport or Sale
+10-410(2),Business Regulation,Fuel Transport or Sale
+10-501(b),Business Regulation,Fuel Transport or Sale
+11-107.62(0b),Federal Regulations,Transporting Hazardous Materials
+11-1527.0(8a),Federal Regulations,Driving without Proper License
+11-172.20(0a),Federal Regulations,Transporting Hazardous Materials
+11-172.20(2a),Federal Regulations,Transporting Hazardous Materials
+11-172.30(0),Federal Regulations,Transporting Hazardous Materials
+11-172.32(8b1),Federal Regulations,Transporting Hazardous Materials
+11-172.33(4b),Federal Regulations,Transporting Hazardous Materials
+11-172.50(2a),Federal Regulations,Transporting Hazardous Materials
+11-172.50(2a2),Federal Regulations,Transporting Hazardous Materials
+11-172.51(6),Federal Regulations,Transporting Hazardous Materials
+11-172.51(9),Federal Regulations,Transporting Hazardous Materials
+11-177.80(4),Federal Regulations,Transporting Hazardous Materials
+11-177.81(7),Federal Regulations,Transporting Hazardous Materials
+11-177.81(7e),Federal Regulations,Transporting Hazardous Materials
+11-177.83(4),Federal Regulations,Transporting Hazardous Materials
+11-180.41(5a),Federal Regulations,Improper Transportation of Cargo
+11-383.23,Federal Regulations,Commerical Driving
+11-383.3B,Federal Regulations,Commerical Driving
+11-383.91(a),Federal Regulations,Commerical Driving
+11-383.93(b),Federal Regulations,Commerical Driving
+11-385.33(1),Federal Regulations,Commerical Driving
+11-390.11,Federal Regulations,Reckless Driving
+11-390.21,Federal Regulations,Driving without Proper License
+11-390.35,Federal Regulations,Falsifying Evidence
+11-391.11(a),Federal Regulations,Commerical Driving
+11-391.11(b2),Federal Regulations,Misc
+11-391.15,Federal Regulations,Misc
+11-391.1C,Federal Regulations,Misc
+11-391.41(a),Federal Regulations,Misc
+11-392.10(a),Federal Regulations,Misc
+11-392.11,Federal Regulations,Misc
+11-392.14,Federal Regulations,Misc
+11-392.16,Federal Regulations,Misc
+11-392.2,Federal Regulations,Misc
+11-392.22,Federal Regulations,Misc
+11-392.33,Federal Regulations,Misc
+11-392.3A,Federal Regulations,Misc
+11-392.4A,Federal Regulations,Misc
+11-392.5A,Federal Regulations,Misc
+11-392.5A(3),Federal Regulations,Misc
+11-392.60,Federal Regulations,Misc
+11-392.71(a),Federal Regulations,Misc
+11-392.8,Federal Regulations,Misc
+11-392.80(a),Federal Regulations,Misc
+11-392.82,Federal Regulations,Misc
+11-392.9,Federal Regulations,Misc
+11-392.9(a),Federal Regulations,Misc
+11-393.1,Federal Regulations,Misc
+11-393.10(0b),Federal Regulations,Misc
+11-393.10(0c),Federal Regulations,Misc
+11-393.10(4a),Federal Regulations,Misc
+11-393.10(4b),Federal Regulations,Misc
+11-393.10(4f),Federal Regulations,Misc
+11-393.10(6b),Federal Regulations,Misc
+11-393.10(6c),Federal Regulations,Misc
+11-393.11(0a),Federal Regulations,Misc
+11-393.11(2),Federal Regulations,Misc
+11-393.11(8),Federal Regulations,Misc
+11-393.12(8),Federal Regulations,Misc
+11-393.13(0),Federal Regulations,Misc
+11-393.13(4),Federal Regulations,Misc
+11-393.20(1a),Federal Regulations,Misc
+11-393.20(3),Federal Regulations,Misc
+11-393.20(5a),Federal Regulations,Misc
+11-393.20(5c),Federal Regulations,Misc
+11-393.20(7c),Federal Regulations,Misc
+11-393.20(7e),Federal Regulations,Misc
+11-393.20(9d),Federal Regulations,Misc
+11-393.22,Federal Regulations,Misc
+11-393.28,Federal Regulations,Misc
+11-393.30,Federal Regulations,Misc
+11-393.33,Federal Regulations,Misc
+11-393.40(a),Federal Regulations,Misc
+11-393.41,Federal Regulations,Misc
+11-393.42,Federal Regulations,Misc
+11-393.43,Federal Regulations,Misc
+11-393.45(a),Federal Regulations,Misc
+11-393.46(a),Federal Regulations,Misc
+11-393.47,Federal Regulations,Misc
+11-393.48,Federal Regulations,Misc
+11-393.51(a),Federal Regulations,Misc
+11-393.60,Federal Regulations,Misc
+11-393.62,Federal Regulations,Misc
+11-393.65,Federal Regulations,Misc
+11-393.70,Federal Regulations,Misc
+11-393.71,Federal Regulations,Misc
+11-393.75(a),Federal Regulations,Misc
+11-393.75(a3),Federal Regulations,Misc
+11-393.75(b),Federal Regulations,Misc
+11-393.75(c),Federal Regulations,Misc
+11-393.75(f),Federal Regulations,Misc
+11-393.75(h1),Federal Regulations,Misc
+11-393.78,Federal Regulations,Misc
+11-393.80,Federal Regulations,Misc
+11-393.81,Federal Regulations,Misc
+11-393.83,Federal Regulations,Misc
+11-393.84,Federal Regulations,Misc
+11-393.86,Federal Regulations,Misc
+11-393.87,Federal Regulations,Misc
+11-393.9,Federal Regulations,Headlights
+11-393.95(a),Federal Regulations,Misc
+11-393.95(a2),Federal Regulations,Misc
+11-393.95(f),Federal Regulations,Misc
+11-395.13(c),Federal Regulations,Misc
+11-395.13(d),Federal Regulations,Misc
+11-395.3B(1),Federal Regulations,Misc
+11-395.8A,Federal Regulations,Misc
+11-395.8E,Federal Regulations,Misc
+11-395.8F,Federal Regulations,Misc
+11-395.8K,Federal Regulations,Misc
+11-396.1,Federal Regulations,Misc
+11-396.13,Federal Regulations,Misc
+11-396.3,Federal Regulations,Misc
+11-396.3(a),Federal Regulations,Misc
+11-396.3A,Federal Regulations,Misc
+11-396.7,Federal Regulations,Misc
+11-396.9(d2),Federal Regulations,Misc
+11-396.9C(2),Federal Regulations,Misc
+11-396.9C(3),Federal Regulations,Misc
+11-397.17(a),Federal Regulations,Misc
+12-301(11),Motor Vehicle Administration,Failure to Surrender ID Card
+12-301(c),Motor Vehicle Administration,Failure to Surrender ID Card
+12-301(e),Motor Vehicle Administration,Failure to Surrender ID Card
+12-301(f),Motor Vehicle Administration,Failure to Surrender ID Card
+12-301(j),Motor Vehicle Administration,Failure to Surrender ID Card
+12-301(l2),Motor Vehicle Administration,Failure to Surrender ID Card
+13-101.1,Vehicle Registration,Improper Registration Plates
+13-106(d2),Vehicle Registration,Improper Registration Plates
+13-111(b),Vehicle Registration,Improper Registration Plates
+13-111(e),Vehicle Registration,Improper Registration Plates
+13-112(a),Vehicle Registration,Improper Registration Plates
+13-112(c),Vehicle Registration,Improper Registration Plates
+13-112(e),Vehicle Registration,Improper Registration Plates
+13-113(b),Vehicle Registration,Improper Registration Plates
+13-113(c),Vehicle Registration,Improper Registration Plates
+13-113(e4),Vehicle Registration,Improper Registration Plates
+13-113.2(c),Vehicle Registration,Improper Registration Plates
+13-113.2(d),Vehicle Registration,Improper Registration Plates
+13-113.2(g),Vehicle Registration,Improper Registration Plates
+13-117(a),Vehicle Registration,Improper Registration Plates
+13-118(a),Vehicle Registration,Improper Registration Plates
+13-118(b),Vehicle Registration,Improper Registration Plates
+13-203(b),Vehicle Registration,Improper Registration Plates
+13-203(c),Vehicle Registration,Improper Registration Plates
+13-205(b),Vehicle Registration,Improper Registration Plates
+13-401(b),Vehicle Registration,Improper Registration Plates
+13-401(b1),Vehicle Registration,Improper Registration Plates
+13-401(c),Vehicle Registration,Improper Registration Plates
+13-401(d),Vehicle Registration,Improper Registration Plates
+13-401(e),Vehicle Registration,Improper Registration Plates
+13-401(f),Vehicle Registration,Improper Registration Plates
+13-401(g),Vehicle Registration,Improper Registration Plates
+13-401(h),Vehicle Registration,Improper Registration Plates
+13-401(i),Vehicle Registration,Improper Registration Plates
+13-401(j),Vehicle Registration,Improper Registration Plates
+13-401(k),Vehicle Registration,Improper Registration Plates
+13-402(a1),Vehicle Registration,Improper Registration Plates
+13-402(a2),Vehicle Registration,Improper Registration Plates
+13-402.1(e1),Vehicle Registration,Improper Registration Plates
+13-402.1(e2),Vehicle Registration,Improper Registration Plates
+13-403,Vehicle Registration,Improper Registration Plates
+13-409(a),Vehicle Registration,Improper Registration Plates
+13-409(b),Vehicle Registration,Improper Registration Plates
+13-410(c5),Vehicle Registration,Improper Registration Plates
+13-410(e2),Vehicle Registration,Improper Registration Plates
+13-411(a),Vehicle Registration,Improper Registration Plates
+13-411(b1),Vehicle Registration,Improper Registration Plates
+13-411(b2),Vehicle Registration,Improper Registration Plates
+13-411(c),Vehicle Registration,Improper Registration Plates
+13-411(c1),Vehicle Registration,Improper Registration Plates
+13-411(c2),Vehicle Registration,Improper Registration Plates
+13-411(d),Vehicle Registration,Improper Registration Plates
+13-411(e),Vehicle Registration,Improper Registration Plates
+13-411(f),Vehicle Registration,Improper Registration Plates
+13-411(g),Vehicle Registration,Improper Registration Plates
+13-411(h),Vehicle Registration,Improper Registration Plates
+13-411.1(b),Vehicle Registration,Improper Registration Plates
+13-411.1(c),Vehicle Registration,Improper Registration Plates
+13-414(a),Vehicle Registration,Improper Registration Plates
+13-414(b),Vehicle Registration,Improper Registration Plates
+13-415(a),Vehicle Registration,Improper Registration Plates
+13-415(b),Vehicle Registration,Improper Registration Plates
+13-415(c),Vehicle Registration,Improper Registration Plates
+13-415(d),Vehicle Registration,Improper Registration Plates
+13-415(e),Vehicle Registration,Improper Registration Plates
+13-415(f),Vehicle Registration,Improper Registration Plates
+13-415(g),Vehicle Registration,Improper Registration Plates
+13-415(h),Vehicle Registration,Improper Registration Plates
+13-420(b),Vehicle Registration,Improper Registration Plates
+13-423(a),Vehicle Registration,Improper Registration Plates
+13-501(a),Vehicle Registration,Improper Registration Plates
+13-501(b),Vehicle Registration,Improper Registration Plates
+13-501(c),Vehicle Registration,Improper Registration Plates
+13-501(e),Vehicle Registration,Improper Registration Plates
+13-502(a),Vehicle Registration,Improper Registration Plates
+13-502(b),Vehicle Registration,Improper Registration Plates
+13-503(b),Vehicle Registration,Improper Registration Plates
+13-503(e),Vehicle Registration,Improper Registration Plates
+13-504(a),Vehicle Registration,Improper Registration Plates
+13-504(d),Vehicle Registration,Improper Registration Plates
+13-506(c12),Vehicle Registration,Improper Registration Plates
+13-604(a),Vehicle Registration,Improper Registration Plates
+13-604(b),Vehicle Registration,Improper Registration Plates
+13-604(c),Vehicle Registration,Improper Registration Plates
+13-605,Vehicle Registration,Improper Registration Plates
+13-606(b),Vehicle Registration,Improper Registration Plates
+13-606(c),Vehicle Registration,Improper Registration Plates
+13-607(a),Vehicle Registration,Improper Registration Plates
+13-607(b),Vehicle Registration,Improper Registration Plates
+13-607(d),Vehicle Registration,Improper Registration Plates
+13-607(e),Vehicle Registration,Improper Registration Plates
+13-607(f),Vehicle Registration,Improper Registration Plates
+13-616(i),Vehicle Registration,Improper Registration Plates
+13-616.1(f1),Vehicle Registration,Improper Registration Plates
+13-616.1(f2),Vehicle Registration,Improper Registration Plates
+13-616.1(h1),Vehicle Registration,Improper Registration Plates
+13-616.1(h2),Vehicle Registration,Improper Registration Plates
+13-616.2(c2),Vehicle Registration,Improper Registration Plates
+13-616.2(d2),Vehicle Registration,Improper Registration Plates
+13-616.2(e2),Vehicle Registration,Improper Registration Plates
+13-616.2(f1),Vehicle Registration,Improper Registration Plates
+13-620(b),Vehicle Registration,Improper Registration Plates
+13-620(c),Vehicle Registration,Improper Registration Plates
+13-620(d),Vehicle Registration,Improper Registration Plates
+13-625(e),Vehicle Registration,Improper Registration Plates
+13-625(f),Vehicle Registration,Improper Registration Plates
+13-629,Vehicle Registration,Improper Registration Plates
+13-701(a),Vehicle Registration,Improper Registration Plates
+13-701(b),Vehicle Registration,Improper Registration Plates
+13-702(a),Vehicle Registration,Improper Registration Plates
+13-702(b),Vehicle Registration,Improper Registration Plates
+13-703(a),Vehicle Registration,Improper Registration Plates
+13-703(b),Vehicle Registration,Improper Registration Plates
+13-703(c),Vehicle Registration,Improper Registration Plates
+13-703(d),Vehicle Registration,Improper Registration Plates
+13-703(e),Vehicle Registration,Improper Registration Plates
+13-703(f),Vehicle Registration,Improper Registration Plates
+13-703(g),Vehicle Registration,Improper Registration Plates
+13-703(h),Vehicle Registration,Improper Registration Plates
+13-704(b),Vehicle Registration,Improper Registration Plates
+13-708(a),Vehicle Registration,Improper Registration Plates
+13-708(b),Vehicle Registration,Improper Registration Plates
+13-918(b),Vehicle Registration,Improper Registration Plates
+13-920(i),Vehicle Registration,Improper Registration Plates
+13-920(j),Vehicle Registration,Improper Registration Plates
+13-921(d),Vehicle Registration,Improper Registration Plates
+13-921(d2),Vehicle Registration,Improper Registration Plates
+13-921(e),Vehicle Registration,Improper Registration Plates
+13-936.2(e1),Vehicle Registration,Improper Registration Plates
+13-936.2E(1i),Vehicle Registration,Improper Registration Plates
+13-936.2E(1iI),Vehicle Registration,Improper Registration Plates
+13-936E(2i),Vehicle Registration,Improper Registration Plates
+13-936E(2iI),Vehicle Registration,Improper Registration Plates
+13-936E2I,Vehicle Registration,Improper Registration Plates
+13-936E2I(i),Vehicle Registration,Improper Registration Plates
+13-936E2I(ii),Vehicle Registration,Improper Registration Plates
+13-936E2I(v),Vehicle Registration,Improper Registration Plates
+13-936E2V,Vehicle Registration,Improper Registration Plates
+13-937.1D(2i),Vehicle Registration,Improper Registration Plates
+13-940(c),Vehicle Registration,Improper Registration Plates
+13-946(c),Vehicle Registration,Improper Registration Plates
+14-102(a),Antitheft,Theft
+14-102(b),Antitheft,Theft
+14-103(a),Antitheft,Theft
+14-103(b),Antitheft,Theft
+14-104(a),Antitheft,Theft
+14-104(b),Antitheft,Theft
+14-104(c),Antitheft,Theft
+14-104(d),Antitheft,Theft
+14-105(e),Antitheft,Theft
+14-106(a),Antitheft,Falsifying Evidence
+14-107(b),Antitheft,Falsifying Evidence
+14-107(c),Antitheft,Falsifying Evidence
+14-107(d),Antitheft,Falsifying Evidence
+14-107(f),Antitheft,Falsifying Evidence
+14-107(g),Antitheft,Falsifying Evidence
+14-107(h),Antitheft,Falsifying Evidence
+14-107(j),Antitheft,Falsifying Evidence
+14-107(k),Antitheft,Falsifying Evidence
+14-108(a),Antitheft,Falsifying Evidence
+14-110(b),Antitheft,Falsifying Evidence
+14-110(c),Antitheft,Falsifying Evidence
+14-110(d),Antitheft,Falsifying Evidence
+14-110(e),Antitheft,Falsifying Evidence
+14-110(f),Antitheft,Falsifying Evidence
+14-110(g),Antitheft,Falsifying Evidence
+15-106(b),Licensing,Commercial Driving
+15-111(a),Licensing,Commercial Driving
+15-302(a),Licensing,Commercial Driving
+15-305.1(a5),Licensing,Commercial Driving
+15-311.2(c1),Licensing,Commercial Driving
+15-311.2(c3),Licensing,Commercial Driving
+15-311.2(c4),Licensing,Commercial Driving
+15-312(a),Licensing,Commercial Driving
+15-314(g),Licensing,Commercial Driving
+15-402(a),Licensing,Commercial Driving
+15-602,Licensing,Commercial Driving
+15-802,Licensing,Commercial Driving
+16-101(a),Licensing,Driving without Proper License
+16-101(a1),Licensing,Driving without Proper License
+16-101(a2),Licensing,Driving without Proper License
+16-101(b),Licensing,Driving without Proper License
+16-104.1(a),Licensing,Driving without Proper License
+16-104.1(b),Licensing,Driving without Proper License
+16-104.1(c),Licensing,Driving without Proper License
+16-104.1(d),Licensing,Driving without Proper License
+16-105(b1),Licensing,Driving without Proper License
+16-105(b2),Licensing,Driving without Proper License
+16-105(c),Licensing,Driving without Proper License
+16-111.1(f),Licensing,Driving without Proper License
+16-112(b),Licensing,Driving without Proper License
+16-112(c),Licensing,Driving without Proper License
+16-112(d),Licensing,Driving without Proper License
+16-112(e),Licensing,Driving without Proper License
+16-113(h),Licensing,Driving without Proper License
+16-113(i),Licensing,Driving without Proper License
+16-113(j),Licensing,Driving without Proper License
+16-113(k),Licensing,Driving without Proper License
+16-114(b),Licensing,Driving without Proper License
+16-114(d),Licensing,Driving without Proper License
+16-115(f),Licensing,Driving without Proper License
+16-115(g),Licensing,Driving without Proper License
+16-115(h),Licensing,Driving without Proper License
+16-116(a),Licensing,Driving without Proper License
+16-116(b),Licensing,Driving without Proper License
+16-116(c),Licensing,Driving without Proper License
+16-122(c),Licensing,Driving without Proper License
+16-201,Licensing,Driving without Proper License
+16-201(b),Licensing,Driving without Proper License
+16-205(e15),Licensing,Driving without Proper License
+16-211(a),Licensing,Driving without Proper License
+16-211(b),Licensing,Driving without Proper License
+16-211(c),Licensing,Driving without Proper License
+16-211(d),Licensing,Driving without Proper License
+16-211(e),Licensing,Driving without Proper License
+16-301(a),Licensing,Driving without Proper License
+16-301(b),Licensing,Driving without Proper License
+16-301(c),Licensing,Driving without Proper License
+16-301(d),Licensing,Driving without Proper License
+16-301(e),Licensing,Driving without Proper License
+16-301(f),Licensing,Driving without Proper License
+16-301(g),Licensing,Driving without Proper License
+16-301(h),Licensing,Driving without Proper License
+16-301(i),Licensing,Driving without Proper License
+16-301(j),Licensing,Driving without Proper License
+16-301(k),Licensing,Driving without Proper License
+16-301(l),Licensing,Driving without Proper License
+16-301(m),Licensing,Driving without Proper License
+16-301(n),Licensing,Driving without Proper License
+16-301(o),Licensing,Driving without Proper License
+16-301(p),Licensing,Driving without Proper License
+16-301(q),Licensing,Driving without Proper License
+16-302,Licensing,Driving without Proper License
+16-303(a),Licensing,Driving without Proper License
+16-303(b),Licensing,Driving without Proper License
+16-303(c),Licensing,Driving without Proper License
+16-303(d),Licensing,Driving without Proper License
+16-303(e),Licensing,Driving without Proper License
+16-303(f),Licensing,Driving without Proper License
+16-303(g),Licensing,Driving without Proper License
+16-303(h),Licensing,Driving without Proper License
+16-303(i),Licensing,Driving without Proper License
+16-304(a),Licensing,Driving without Proper License
+16-304(b),Licensing,Driving without Proper License
+16-305(a),Licensing,Driving without Proper License
+16-305(b),Licensing,Driving without Proper License
+16-804,Licensing,Commerical Driving
+16-807(a),Licensing,Commerical Driving
+16-807(e2),Licensing,Commerical Driving
+16-808(a3),Licensing,Commerical Driving
+16-808(a5),Licensing,Commerical Driving
+16-808(a6),Licensing,Commerical Driving
+16-808(a7),Licensing,Commerical Driving
+16-808(a91),Licensing,Commerical Driving
+16-808(b1),Licensing,Commerical Driving
+16-808(c),Licensing,Commerical Driving
+16-810(d),Licensing,Commerical Driving
+16-813(a),Licensing,Commerical Driving
+16-815(a),Licensing,Commerical Driving
+16-815(b),Licensing,Commerical Driving
+16-815(c),Licensing,Commerical Driving
+16-816(b),Licensing,Commerical Driving
+17-104,Insurance,Driving Uninsured
+17-104.1,Insurance,Driving Uninsured
+17-104.2(b1),Insurance,Driving Uninsured
+17-104.2(b2),Insurance,Driving Uninsured
+17-106(b),Insurance,Driving Uninsured
+17-106(d),Insurance,Driving Uninsured
+17-107,Insurance,Driving Uninsured
+17-107(a1),Insurance,Driving Uninsured
+17-107(a2),Insurance,Driving Uninsured
+17-110,Insurance,Falsifying Evidence
+18-103(a),For-Rent Vehicles,Improper Rental Usage
+18-103(c),For-Rent Vehicles,Improper Rental Usage
+18-106(a),For-Rent Vehicles,Improper Rental Usage
+18-106(b),For-Rent Vehicles,Improper Rental Usage
+20-102(a1),Accident,Failure to Remain on Scene
+20-102(a2),Accident,Failure to Remain on Scene
+20-102(b1),Accident,Failure to Remain on Scene
+20-103(a),Accident,Failure to Remain on Scene
+20-103(b),Accident,Failure to Remain on Scene
+20-104(a),Accident,Failure to Remain on Scene
+20-104(b),Accident,Failure to Remain on Scene
+20-104(c),Accident,Failure to Remain on Scene
+20-104(d),Accident,Failure to Remain on Scene
+20-105(a),Accident,Failure to Remain on Scene
+20-105(b),Accident,Failure to Remain on Scene
+20-105(c),Accident,Failure to Remain on Scene
+20-105.1,Accident,Failure to Remain on Scene
+20-106,Accident,Failure to Remain on Scene
+20-107(a),Accident,Driving Uninsured
+20-107(b),Accident,Driving Uninsured
+20-107(d),Accident,Driving Uninsured
+20-108,Accident,Falsifying Evidence
+21-1001(a),Rules of Road,Improper Parking
+21-1001(b),Rules of Road,Improper Parking
+21-1001(c),Rules of Road,Improper Parking
+21-1003(aa),Rules of Road,Improper Parking
+21-1003(b),Rules of Road,Improper Parking
+21-1003(c),Rules of Road,Improper Parking
+21-1003(cc),Rules of Road,Improper Parking
+21-1003(d),Rules of Road,Improper Parking
+21-1003(dd),Rules of Road,Improper Parking
+21-1003(e),Rules of Road,Improper Parking
+21-1003(ee),Rules of Road,Improper Parking
+21-1003(f),Rules of Road,Improper Parking
+21-1003(g),Rules of Road,Improper Parking
+21-1003(h),Rules of Road,Improper Parking
+21-1003(j),Rules of Road,Improper Parking
+21-1003(k),Rules of Road,Improper Parking
+21-1003(l),Rules of Road,Improper Parking
+21-1003(m),Rules of Road,Improper Parking
+21-1003(n),Rules of Road,Improper Parking
+21-1003(o),Rules of Road,Improper Parking
+21-1003(p),Rules of Road,Improper Parking
+21-1003(q),Rules of Road,Improper Parking
+21-1003(r),Rules of Road,Improper Parking
+21-1003(s),Rules of Road,Improper Parking
+21-1003(u),Rules of Road,Improper Parking
+21-1003(v),Rules of Road,Improper Parking
+21-1004(a),Rules of Road,Improper Parking
+21-1004(b),Rules of Road,Improper Parking
+21-1004(e),Rules of Road,Improper Parking
+21-1004.1(a),Rules of Road,Improper Parking
+21-1004.1(c),Rules of Road,Improper Parking
+21-1005(d),Rules of Road,Improper Parking
+21-1005(f),Rules of Road,Improper Parking
+21-1005(m),Rules of Road,Improper Parking
+21-1006(b),Rules of Road,Improper Parking
+21-103(a),Rules of Road,Misc
+21-103(b),Rules of Road,Misc
+21-104(b),Rules of Road,Misc
+21-106(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-106(c3I),Rules of Road,Failure to Obey Traffic Control Devices
+21-107(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-10A04(4),Rules of Road,Improper Towing
+21-10A04A(2),Rules of Road,Improper Towing
+21-10A04A(5),Rules of Road,Improper Towing
+21-10A04A(6),Rules of Road,Improper Towing
+21-10A04A(7),Rules of Road,Improper Towing
+21-10A05A(1),Rules of Road,Improper Towing
+21-1101(a),Rules of Road,Misc
+21-1101(b),Rules of Road,Misc
+21-1102(a),Rules of Road,Misc
+21-1102(b),Rules of Road,Misc
+21-1103(a),Rules of Road,Wrong Side of Road
+21-1104(a),Rules of Road,Misc
+21-1104(b),Rules of Road,Misc
+21-1104(c),Rules of Road,Misc
+21-1104(c1),Rules of Road,Misc
+21-1104(c3),Rules of Road,Misc
+21-1104(d),Rules of Road,Misc
+21-1105(a),Rules of Road,Misc
+21-1105(b),Rules of Road,Misc
+21-1106(a),Rules of Road,Misc
+21-1107(b1),Rules of Road,Misc
+21-1107(b2),Rules of Road,Misc
+21-1108(a),Rules of Road,Misc
+21-1109(a),Rules of Road,Misc
+21-1109(b),Rules of Road,Misc
+21-1110,Rules of Road,Misc
+21-1111(a),Rules of Road,Misc
+21-1111(b),Rules of Road,Misc
+21-1111(c),Rules of Road,Misc
+21-1111(d),Rules of Road,Misc
+21-1112,Rules of Road,Eluding Police
+21-1112.1(a),Rules of Road,Eluding Police
+21-1114(a),Rules of Road,Unauthorized Access
+21-1114(c),Rules of Road,Unauthorized Access
+21-1114(d),Rules of Road,Unauthorized Access
+21-1115(a),Rules of Road,Theft
+21-1116(a),Rules of Road,Reckless Driving
+21-1116(b),Rules of Road,Reckless Driving
+21-1117(b),Rules of Road,Misc
+21-1117(c),Rules of Road,Misc
+21-1117(d),Rules of Road,Misc
+21-1119(d),Rules of Road,Misc
+21-1120(a),Rules of Road,Distracted Driving
+21-1120(b),Rules of Road,Distracted Driving
+21-1120(c),Rules of Road,Distracted Driving
+21-1121(c),Rules of Road,Misc
+21-1122(c),Rules of Road,Misc
+21-1123(a2),Rules of Road,Misc
+21-1124(c),Rules of Road,Distracted Driving
+21-1124.1(b),Rules of Road,Distracted Driving
+21-1124.2(c1),Rules of Road,Distracted Driving
+21-1124.2(c2),Rules of Road,Distracted Driving
+21-1124.2(d2),Rules of Road,Distracted Driving
+21-1124.3,Rules of Road,Distracted Driving
+21-1124.3(a),Rules of Road,Distracted Driving
+21-1125(1),Rules of Road,Misc
+21-1125(2),Rules of Road,Misc
+21-1125(3),Rules of Road,Misc
+21-1125(4),Rules of Road,Misc
+21-1126(b),Rules of Road,Misc
+21-1127(a),Rules of Road,Misc
+21-1127(b2),Rules of Road,Misc
+21-1128,Rules of Road,Misc
+21-1129,Rules of Road,Distracted Driving
+21-1201(a),Rules of Road,Improper Operating of Bicycle
+21-1201(b),Rules of Road,Improper Operating of Bicycle
+21-1203(b),Rules of Road,Improper Operating of Bicycle
+21-1203(c),Rules of Road,Improper Operating of Bicycle
+21-1205(a),Rules of Road,Improper Operating of Bicycle
+21-1205(b),Rules of Road,Improper Operating of Bicycle
+21-1205(c),Rules of Road,Improper Operating of Bicycle
+21-1205.1(a),Rules of Road,Improper Operating of Bicycle
+21-1205.1(b),Rules of Road,Improper Operating of Bicycle
+21-1205.1(b1),Rules of Road,Improper Operating of Bicycle
+21-1205.1(b2),Rules of Road,Improper Operating of Bicycle
+21-1205.1(b3),Rules of Road,Improper Operating of Bicycle
+21-1205.1(c),Rules of Road,Improper Operating of Bicycle
+21-1205.1(d),Rules of Road,Improper Operating of Bicycle
+21-1206(a),Rules of Road,Improper Operating of Bicycle
+21-1207(a),Rules of Road,Improper Operating of Bicycle
+21-1207(b),Rules of Road,Improper Operating of Bicycle
+21-1207(d),Rules of Road,Improper Operating of Bicycle
+21-1208(e),Rules of Road,Improper Operating of Bicycle
+21-1209(a1),Rules of Road,Improper Operating of Bicycle
+21-1209(a2),Rules of Road,Improper Operating of Bicycle
+21-1209(b),Rules of Road,Improper Operating of Bicycle
+21-1209(d),Rules of Road,Improper Operating of Bicycle
+21-1210(a),Rules of Road,Improper Operating of Bicycle
+21-1210(b),Rules of Road,Improper Operating of Bicycle
+21-1302(a),Rules of Road,Improper Operating of Motorcycle
+21-1302(b),Rules of Road,Improper Operating of Motorcycle
+21-1302(d),Rules of Road,Improper Operating of Motorcycle
+21-1302(g),Rules of Road,Improper Operating of Motorcycle
+21-1303(c),Rules of Road,Improper Operating of Motorcycle
+21-1303(d),Rules of Road,Improper Operating of Motorcycle
+21-1303(e),Rules of Road,Improper Operating of Motorcycle
+21-1305(a),Rules of Road,Operating Motorcycle without proper gear
+21-1306(b),Rules of Road,Operating Motorcycle without proper gear
+21-1306(c),Rules of Road,Operating Motorcycle without proper gear
+21-1306.1(b),Rules of Road,Operating Motorcycle without proper gear
+21-1306.1(c),Rules of Road,Operating Motorcycle without proper gear
+21-1404(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-1404(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-1405(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-1405(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-1406,Rules of Road,Failure to Obey Traffic Control Devices
+21-1407,Rules of Road,Failure to Obey Traffic Control Devices
+21-1408(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-1408(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-1409,Rules of Road,Failure to Obey Traffic Control Devices
+21-1412(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-1412(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-1413(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-1413(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-201(a1),Rules of Road,Failure to Obey Traffic Control Devices
+21-201(a2),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(e),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(h),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(h1),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(h2),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(i1),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(i2),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(j),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(k),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(l),Rules of Road,Failure to Obey Traffic Control Devices
+21-202(m),Rules of Road,Failure to Obey Traffic Control Devices
+21-203(c),Rules of Road,Jaywalking
+21-203(d),Rules of Road,Jaywalking
+21-204(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-204(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-204(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-204(f),Rules of Road,Failure to Obey Traffic Control Devices
+21-204.1,Rules of Road,Failure to Obey Traffic Control Devices
+21-205(a),Rules of Road,Obstructing Signage
+21-205(c),Rules of Road,Obstructing Signage
+21-207(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-209,Rules of Road,Failure to Obey Traffic Control Devices
+21-209(2),Rules of Road,Failure to Obey Traffic Control Devices
+21-209(3),Rules of Road,Failure to Obey Traffic Control Devices
+21-2091(i),Rules of Road,Failure to Obey Traffic Control Devices
+21-2091(ii),Rules of Road,Failure to Obey Traffic Control Devices
+21-2091(iiI),Rules of Road,Failure to Obey Traffic Control Devices
+21-301(a),Rules of Road,Wrong Side of Road
+21-301(b),Rules of Road,Wrong Side of Road
+21-301(c),Rules of Road,Wrong Side of Road
+21-302(b),Rules of Road,Wrong Side of Road
+21-303(b),Rules of Road,Improper Overtake
+21-303(c),Rules of Road,Improper Overtake
+21-303(d),Rules of Road,Improper Overtake
+21-303(e),Rules of Road,Improper Overtake
+21-304(b),Rules of Road,Improper Overtake
+21-304(c),Rules of Road,Improper Overtake
+21-305,Rules of Road,Improper Overtake
+21-307(b),Rules of Road,Improper Overtake
+21-307(c),Rules of Road,Improper Overtake
+21-307(d),Rules of Road,Improper Overtake
+21-308(a),Rules of Road,Wrong Way on One Way
+21-308(b),Rules of Road,Wrong Way on One Way
+21-309(b),Rules of Road,Improper Lane Change
+21-309(c),Rules of Road,Wrong Side of Road
+21-309(d),Rules of Road,Wrong Side of Road
+21-309(e),Rules of Road,Improper Lane Change
+21-309(f),Rules of Road,Improper Lane Change
+21-309(g),Rules of Road,Improper Road Turn
+21-309(h),Rules of Road,Improper Road Turn
+21-309(i),Rules of Road,Improper Road Turn
+21-310(a),Rules of Road,Tailgating
+21-310(e),Rules of Road,Tailgating
+21-311(1),Rules of Road,Wrong Side of Road
+21-311(2),Rules of Road,Wrong Side of Road
+21-311(3),Rules of Road,Wrong Side of Road
+21-312(a),Rules of Road,Unauthorized Access
+21-313(b),Rules of Road,Hitchhiking
+21-314(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-401,Rules of Road,Failure to Obey Traffic Control Devices
+21-401.1,Rules of Road,Failure to Obey Traffic Control Devices
+21-402(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-402(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-403(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-403(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-403(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-404(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-404(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-404(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-404(e),Rules of Road,Failure to Obey Traffic Control Devices
+21-404.1(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-404.1(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(e1),Rules of Road,Failure to Obey Traffic Control Devices
+21-405(e2),Rules of Road,Failure to Obey Traffic Control Devices
+21-502(a2),Rules of Road,Failure to Yield to Pedestrian
+21-502(b),Rules of Road,Jaywalking
+21-502(c),Rules of Road,Failure to Yield to Pedestrian
+21-503(a),Rules of Road,Jaywalking
+21-503(b),Rules of Road,Jaywalking
+21-503(c),Rules of Road,Jaywalking
+21-503(d),Rules of Road,Jaywalking
+21-504(a),Rules of Road,Failure to Yield to Pedestrian
+21-504(b),Rules of Road,Failure to Yield to Pedestrian
+21-504(c),Rules of Road,Failure to Yield to Pedestrian
+21-505,Rules of Road,Jaywalking
+21-506(a),Rules of Road,Jaywalking
+21-506(b),Rules of Road,Jaywalking
+21-507(a),Rules of Road,Hitchhiking
+21-507G3I(i1),Rules of Road,Panhandling
+21-508,Rules of Road,Failure to Obey Traffic Control Devices
+21-509(a),Rules of Road,Hitchhiking
+21-509(b),Rules of Road,Hitchhiking
+21-509(c),Rules of Road,Hitchhiking
+21-509(d),Rules of Road,Hitchhiking
+21-510(c),Rules of Road,Jaywalking
+21-511(a1),Rules of Road,Failure to Yield to Pedestrian
+21-511(a3),Rules of Road,Failure to Yield to Pedestrian
+21-601(a),Rules of Road,Improper Road Turn
+21-601(b),Rules of Road,Improper Road Turn
+21-601(c),Rules of Road,Improper Road Turn
+21-601(d),Rules of Road,Improper Road Turn
+21-602(a),Rules of Road,Improper Road Turn
+21-602(b),Rules of Road,Improper Road Turn
+21-603(a),Rules of Road,Improper Vehicle Start
+21-603(b),Rules of Road,Improper Vehicle Start
+21-604(a),Rules of Road,Failure to Signal Turn
+21-604(b),Rules of Road,Failure to Signal Turn
+21-604(c),Rules of Road,Failure to Signal Turn
+21-604(d),Rules of Road,Failure to Signal Turn
+21-604(e),Rules of Road,Failure to Signal Turn
+21-605(a),Rules of Road,Failure to Signal Turn
+21-605(b),Rules of Road,Failure to Signal Turn
+21-605(c),Rules of Road,Failure to Signal Turn
+21-606(b),Rules of Road,Failure to Signal Turn
+21-606(c),Rules of Road,Failure to Signal Turn
+21-701(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-703(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-703(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-703.1,Rules of Road,Failure to Obey Traffic Control Devices
+21-705(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-705(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-705(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-705(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-706(a),Rules of Road,Overtaking School Vehicle
+21-706(b),Rules of Road,Overtaking School Vehicle
+21-707(a),Rules of Road,Failure to Obey Traffic Control Devices
+21-707(b),Rules of Road,Failure to Obey Traffic Control Devices
+21-707(c),Rules of Road,Failure to Obey Traffic Control Devices
+21-707(d),Rules of Road,Failure to Obey Traffic Control Devices
+21-707(e),Rules of Road,Failure to Obey Traffic Control Devices
+21-707(f),Rules of Road,Failure to Obey Traffic Control Devices
+21-801(a),Rules of Road,Speeding
+21-801(b),Rules of Road,Speeding
+21-801(c),Rules of Road,Speeding
+21-801(d),Rules of Road,Speeding
+21-801(e),Rules of Road,Speeding
+21-801(f),Rules of Road,Speeding
+21-801(g),Rules of Road,Speeding
+21-801(h),Rules of Road,Speeding
+21-801.1,Rules of Road,Speeding
+21-802.1,Rules of Road,Speeding
+21-803.1(e),Rules of Road,Speeding
+21-804(a),Rules of Road,Speeding
+21-804(b),Rules of Road,Speeding
+21-804(c),Rules of Road,Speeding
+21-805(a),Rules of Road,Speeding
+21-805(d),Rules of Road,Speeding
+21-805.1(a),Rules of Road,Speeding
+21-806(b),Rules of Road,Speeding
+21-901.1(a),Rules of Road,Reckless Driving
+21-901.1(b),Rules of Road,Reckless Driving
+21-901.2,Rules of Road,Reckless Driving
+21-902(a1),Rules of Road,DUI
+21-902(a1i),Rules of Road,DUI
+21-902(a1I),Rules of Road,DUI
+21-902(a1ii),Rules of Road,DUI
+21-902(a2),Rules of Road,DUI
+21-902(a2I),Rules of Road,DUI
+21-902(a3),Rules of Road,DUI
+21-902(b1),Rules of Road,DUI
+21-902(b1i),Rules of Road,DUI
+21-902(b1I),Rules of Road,DUI
+21-902(b2),Rules of Road,DUI
+21-902(b2I),Rules of Road,DUI
+21-902(c1),Rules of Road,DUI
+21-902(c1i),Rules of Road,DUI
+21-902(c1I),Rules of Road,DUI
+21-902(c2I),Rules of Road,DUI
+21-902(c3),Rules of Road,DUI
+21-902(d1),Rules of Road,DUI
+21-902(d1i),Rules of Road,DUI
+21-902(d1I),Rules of Road,DUI
+21-902(d2),Rules of Road,DUI
+21-902(d2I),Rules of Road,DUI
+21-902.1,Rules of Road,DUI
+21-902A(1iI),Rules of Road,DUI
+21-903(c),Rules of Road,DUI
+21-904(b1),Rules of Road,Eluding Police
+21-904(b2),Rules of Road,Eluding Police
+21-904(b3),Rules of Road,Eluding Police
+21-904(c1),Rules of Road,Eluding Police
+21-904(c2),Rules of Road,Eluding Police
+21-904(c3),Rules of Road,Eluding Police
+21-904(d1),Rules of Road,Eluding Police
+21-904(e2),Rules of Road,Eluding Police
+22-101(a),Vehicle Equipment,Vehicle Equipment
+22-104,Vehicle Equipment,Vehicle Equipment
+22-105(a),Vehicle Equipment,Vehicle Equipment
+22-105(b),Vehicle Equipment,Vehicle Equipment
+22-201.1,Vehicle Equipment,Vehicle Equipment
+22-201.2,Vehicle Equipment,Vehicle Equipment
+22-203(b),Vehicle Equipment,Vehicle Equipment
+22-203(c),Vehicle Equipment,Vehicle Equipment
+22-203(d),Vehicle Equipment,Vehicle Equipment
+22-204(a),Vehicle Equipment,Vehicle Equipment
+22-204(b),Vehicle Equipment,Vehicle Equipment
+22-204(d),Vehicle Equipment,Vehicle Equipment
+22-204(e),Vehicle Equipment,Vehicle Equipment
+22-204(f),Vehicle Equipment,Vehicle Equipment
+22-205(a),Vehicle Equipment,Vehicle Equipment
+22-205(b),Vehicle Equipment,Vehicle Equipment
+22-206(a),Vehicle Equipment,Vehicle Equipment
+22-206(b),Vehicle Equipment,Vehicle Equipment
+22-206(c),Vehicle Equipment,Vehicle Equipment
+22-208,Vehicle Equipment,Vehicle Equipment
+22-209(a),Vehicle Equipment,Vehicle Equipment
+22-209(b),Vehicle Equipment,Vehicle Equipment
+22-210(a),Vehicle Equipment,Vehicle Equipment
+22-210(c),Vehicle Equipment,Vehicle Equipment
+22-211(a),Vehicle Equipment,Vehicle Equipment
+22-211(b),Vehicle Equipment,Vehicle Equipment
+22-211(c),Vehicle Equipment,Vehicle Equipment
+22-211(d),Vehicle Equipment,Vehicle Equipment
+22-213(c),Vehicle Equipment,Vehicle Equipment
+22-213(d),Vehicle Equipment,Vehicle Equipment
+22-213(e),Vehicle Equipment,Vehicle Equipment
+22-214(a),Vehicle Equipment,Vehicle Equipment
+22-214(b),Vehicle Equipment,Vehicle Equipment
+22-214(c),Vehicle Equipment,Vehicle Equipment
+22-215(a),Vehicle Equipment,Vehicle Equipment
+22-215.1(1),Vehicle Equipment,Vehicle Equipment
+22-215.1(2),Vehicle Equipment,Vehicle Equipment
+22-216,Vehicle Equipment,Vehicle Equipment
+22-217(a),Vehicle Equipment,Vehicle Equipment
+22-217(b),Vehicle Equipment,Vehicle Equipment
+22-217(c),Vehicle Equipment,Vehicle Equipment
+22-218(c),Vehicle Equipment,Vehicle Equipment
+22-218(e),Vehicle Equipment,Vehicle Equipment
+22-218(f),Vehicle Equipment,Vehicle Equipment
+22-219(a),Vehicle Equipment,Vehicle Equipment
+22-219(b),Vehicle Equipment,Vehicle Equipment
+22-219(c),Vehicle Equipment,Vehicle Equipment
+22-219(d),Vehicle Equipment,Vehicle Equipment
+22-219(e),Vehicle Equipment,Vehicle Equipment
+22-219(f),Vehicle Equipment,Vehicle Equipment
+22-219(g),Vehicle Equipment,Vehicle Equipment
+22-221(b),Vehicle Equipment,Vehicle Equipment
+22-221(c),Vehicle Equipment,Vehicle Equipment
+22-221(e),Vehicle Equipment,Vehicle Equipment
+22-221(f),Vehicle Equipment,Vehicle Equipment
+22-221(g),Vehicle Equipment,Vehicle Equipment
+22-221(h),Vehicle Equipment,Vehicle Equipment
+22-221(j),Vehicle Equipment,Vehicle Equipment
+22-221(l22),Vehicle Equipment,Vehicle Equipment
+22-221(l23),Vehicle Equipment,Vehicle Equipment
+22-221L2I(i2),Vehicle Equipment,Vehicle Equipment
+22-221L2I(ii1),Vehicle Equipment,Vehicle Equipment
+22-222(a),Vehicle Equipment,Vehicle Equipment
+22-222(b),Vehicle Equipment,Vehicle Equipment
+22-222(c),Vehicle Equipment,Vehicle Equipment
+22-223(a),Vehicle Equipment,Vehicle Equipment
+22-223(b),Vehicle Equipment,Vehicle Equipment
+22-223(c),Vehicle Equipment,Vehicle Equipment
+22-224.1,Vehicle Equipment,Vehicle Equipment
+22-225,Vehicle Equipment,Vehicle Equipment
+22-226(a),Vehicle Equipment,Vehicle Equipment
+22-226(b),Vehicle Equipment,Vehicle Equipment
+22-227(a),Vehicle Equipment,Vehicle Equipment
+22-227(b),Vehicle Equipment,Vehicle Equipment
+22-227(c),Vehicle Equipment,Vehicle Equipment
+22-227(d),Vehicle Equipment,Vehicle Equipment
+22-227(e),Vehicle Equipment,Vehicle Equipment
+22-227(f),Vehicle Equipment,Vehicle Equipment
+22-228(a),Vehicle Equipment,Vehicle Equipment
+22-228(d),Vehicle Equipment,Vehicle Equipment
+22-230(b),Vehicle Equipment,Vehicle Equipment
+22-230(c),Vehicle Equipment,Vehicle Equipment
+22-301(b),Vehicle Equipment,Vehicle Equipment
+22-301(c),Vehicle Equipment,Vehicle Equipment
+22-301(d),Vehicle Equipment,Vehicle Equipment
+22-301(e),Vehicle Equipment,Vehicle Equipment
+22-301(i),Vehicle Equipment,Vehicle Equipment
+22-301(k),Vehicle Equipment,Vehicle Equipment
+22-303,Vehicle Equipment,Vehicle Equipment
+22-401(a),Vehicle Equipment,Vehicle Equipment
+22-401(b),Vehicle Equipment,Vehicle Equipment
+22-401(c),Vehicle Equipment,Vehicle Equipment
+22-401(e),Vehicle Equipment,Vehicle Equipment
+22-402(a),Vehicle Equipment,Vehicle Equipment
+22-402(b),Vehicle Equipment,Vehicle Equipment
+22-402(c),Vehicle Equipment,Vehicle Equipment
+22-402(c1),Vehicle Equipment,Vehicle Equipment
+22-402.1(a),Vehicle Equipment,Vehicle Equipment
+22-403(a),Vehicle Equipment,Vehicle Equipment
+22-403(b),Vehicle Equipment,Vehicle Equipment
+22-403(c),Vehicle Equipment,Vehicle Equipment
+22-404(a),Vehicle Equipment,Vehicle Equipment
+22-404(b),Vehicle Equipment,Vehicle Equipment
+22-404(c),Vehicle Equipment,Vehicle Equipment
+22-404.1(a),Vehicle Equipment,Vehicle Equipment
+22-404.1(b),Vehicle Equipment,Vehicle Equipment
+22-404.3(a),Vehicle Equipment,Vehicle Equipment
+22-405(a),Vehicle Equipment,Vehicle Equipment
+22-405(b),Vehicle Equipment,Vehicle Equipment
+22-405(d),Vehicle Equipment,Vehicle Equipment
+22-405.2(a),Vehicle Equipment,Vehicle Equipment
+22-405.2(b),Vehicle Equipment,Vehicle Equipment
+22-406(b),Vehicle Equipment,Vehicle Equipment
+22-406(c),Vehicle Equipment,Vehicle Equipment
+22-406(d),Vehicle Equipment,Vehicle Equipment
+22-406(e),Vehicle Equipment,Vehicle Equipment
+22-406(f),Vehicle Equipment,Vehicle Equipment
+22-406(i1),Vehicle Equipment,Vehicle Equipment
+22-406(i3),Vehicle Equipment,Vehicle Equipment
+22-407(a),Vehicle Equipment,Vehicle Equipment
+22-407(d),Vehicle Equipment,Vehicle Equipment
+22-408(a),Vehicle Equipment,Vehicle Equipment
+22-408(b),Vehicle Equipment,Vehicle Equipment
+22-408(c),Vehicle Equipment,Vehicle Equipment
+22-408(d),Vehicle Equipment,Vehicle Equipment
+22-410(d),Vehicle Equipment,Vehicle Equipment
+22-412(a),Vehicle Equipment,Vehicle Equipment
+22-412(b),Vehicle Equipment,Vehicle Equipment
+22-412(f),Vehicle Equipment,Vehicle Equipment
+22-412.2(d),Vehicle Equipment,Vehicle Equipment
+22-412.2(e),Vehicle Equipment,Vehicle Equipment
+22-412.2(g),Vehicle Equipment,Vehicle Equipment
+22-412.3(b),Vehicle Equipment,Vehicle Equipment
+22-412.3(c),Vehicle Equipment,Vehicle Equipment
+22-412.3(c2),Vehicle Equipment,Vehicle Equipment
+22-412.3(c3),Vehicle Equipment,Vehicle Equipment
+22-412.4,Vehicle Equipment,Vehicle Equipment
+22-413(a),Vehicle Equipment,Vehicle Equipment
+22-413(b),Vehicle Equipment,Vehicle Equipment
+22-413(d),Vehicle Equipment,Vehicle Equipment
+22-414,Vehicle Equipment,Vehicle Equipment
+22-414.1,Vehicle Equipment,Vehicle Equipment
+22-418(b),Vehicle Equipment,Vehicle Equipment
+22-602(a),Vehicle Equipment,Vehicle Equipment
+22-602(b),Vehicle Equipment,Vehicle Equipment
+22-609(a),Vehicle Equipment,Vehicle Equipment
+22-609(b),Vehicle Equipment,Vehicle Equipment
+22-611(b),Vehicle Equipment,Vehicle Equipment
+23-104,Vehicle Equipment,Missing or Altered Equipment
+23-109(b),Vehicle Equipment,Missing or Altered Equipment
+23-109(i),Vehicle Equipment,Missing or Altered Equipment
+23-109(j),Vehicle Equipment,Missing or Altered Equipment
+23-109(k),Vehicle Equipment,Missing or Altered Equipment
+23-302,Vehicle Equipment,Vehicle Maintenance
+23-302(c),Vehicle Equipment,Vehicle Maintenance
+24-101(b),Size and Load Restrictions,Size and Load Restrictions
+24-103(a),Size and Load Restrictions,Size and Load Restrictions
+24-103(b),Size and Load Restrictions,Size and Load Restrictions
+24-104,Size and Load Restrictions,Size and Load Restrictions
+24-105(b),Size and Load Restrictions,Size and Load Restrictions
+24-105(c1),Size and Load Restrictions,Size and Load Restrictions
+24-105(c21),Size and Load Restrictions,Size and Load Restrictions
+24-106(b),Size and Load Restrictions,Size and Load Restrictions
+24-106(c),Size and Load Restrictions,Size and Load Restrictions
+24-106(e),Size and Load Restrictions,Size and Load Restrictions
+24-106.1(b),Size and Load Restrictions,Size and Load Restrictions
+24-106.1(d1),Size and Load Restrictions,Size and Load Restrictions
+24-106.1(d2),Size and Load Restrictions,Size and Load Restrictions
+24-106.1(e2),Size and Load Restrictions,Size and Load Restrictions
+24-106.1(f),Size and Load Restrictions,Size and Load Restrictions
+24-106.2(a),Size and Load Restrictions,Size and Load Restrictions
+24-106.2(d),Size and Load Restrictions,Size and Load Restrictions
+24-107(b1),Size and Load Restrictions,Size and Load Restrictions
+24-107(b2),Size and Load Restrictions,Size and Load Restrictions
+24-107(b3),Size and Load Restrictions,Size and Load Restrictions
+24-107(b4),Size and Load Restrictions,Size and Load Restrictions
+24-107(d),Size and Load Restrictions,Size and Load Restrictions
+24-107(h),Size and Load Restrictions,Size and Load Restrictions
+24-108(a1),Size and Load Restrictions,Size and Load Restrictions
+24-111(d),Size and Load Restrictions,Size and Load Restrictions
+24-111.1(b),Size and Load Restrictions,Size and Load Restrictions
+24-112(e2),Size and Load Restrictions,Size and Load Restrictions
+24-202,Size and Load Restrictions,Size and Load Restrictions
+24-203,Size and Load Restrictions,Size and Load Restrictions
+24-401(c),Size and Load Restrictions,Size and Load Restrictions
+25-108(b),Powers of Authorities,Powers of Authorities
+25-108(c),Powers of Authorities,Powers of Authorities
+25-111(d),Powers of Authorities,Powers of Authorities
+25-111(g),Powers of Authorities,Powers of Authorities
+25-112(b3),Powers of Authorities,Powers of Authorities
+25-202,Powers of Authorities,Powers of Authorities
+25-202(a1),Powers of Authorities,Powers of Authorities
+25-202(a2),Powers of Authorities,Powers of Authorities
+26-102(a),Procedure,Procedure
+26-102(b),Procedure,Procedure
+26-203,Procedure,Procedure
+26-305(d),Procedure,Procedure
+26-305(d1),Procedure,Procedure
+27-105(c1),Penalties,Penalties
+27-107(d),Penalties,Penalties
+27-107(f),Penalties,Penalties
+54*,Defect,Windshield Wiper
+55*,Defect,Headlights
+56*,Defect,Taillights
+57*,Defect,Horn
+60*,Defect,Bumpers
+61*,Defect,Glass Tint
+62*,Defect,Load Cover
+64*,Defect,Stop Lights
+65*,Defect,Tag Lights
+66*,Defect,Dash Lights
+68*,Defect,Rearview Mirrors
+69*,Defect,Door Latch
+70*,Defect,Fuel System
+71*,Defect,Turn Signals
+73*,Defect,Hood Catch
+76*,Defect,Fenders
+7-705(a23),Mass Transit,Mass Transit
+7-705(b1),Mass Transit,Mass Transit
+7-705(b2),Mass Transit,Mass Transit
+7-705(b3),Mass Transit,Mass Transit
+7-705(b4),Mass Transit,Mass Transit
+7-705(b5),Mass Transit,Mass Transit
+7-705(b8),Mass Transit,Mass Transit
+7-705(f1),Mass Transit,Mass Transit
+78*,Defect,Hazard Warning Lamp
+79*,Defect,Park Lamp
+80*,Defect,Side Marker Lamp
+82*,Defect,Emergency Warning Map
+83*,Defect,Back Up Lamp
+84*,Defect,Reflectors
+8-409(e),Highways,Unauthorized Access
+8-409(h),Highways,Unauthorized Access
+8-409(i),Highways,Unauthorized Access
+86*,Defect,Low Air Warning Device
+87*,Defect,Clearance Lamp
+88*,Defect,Identification Lamp
+9-220,Fuel Taxes,Commercial Driving
+9-220(a),Fuel Taxes,Commercial Driving
+9-337(a),Fuel Taxes,Commercial Driving

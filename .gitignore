@@ -1,0 +1,8 @@
+# ignore .vscode files in any directory
+*/.vscode
+
+# Ignore temp files made by MS Office
+~*
+
+# Ignore temp files made by emacs
+*~
